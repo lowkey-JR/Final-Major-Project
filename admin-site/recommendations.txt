@@ -1,0 +1,4 @@
+⚠️ Employees working overtime have significantly higher attrition rates. Consider monitoring workloads.
+⚠️ Poor work-life balance is a major factor. Consider promoting flexible work policies.
+⚠️ Young employees in age group **18-25** have high attrition (Rate: 34.35%). Offer career growth opportunities.
+⚠️ Distance from home is also a considerable factor. 
